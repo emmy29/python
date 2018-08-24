@@ -28,3 +28,8 @@ print(nested_list)
 print(nested_list[0])
 print(nested_list[1])
 
+
+#accesssing eleements of nested list#
+
+print(nested_list[0][3])#the first no after list name is for the sub list and 2nd no is for a particular element in sublist
+
